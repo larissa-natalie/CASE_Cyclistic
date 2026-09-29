@@ -8,10 +8,6 @@ A partir dessas descobertas, a equipe de marketing visa criar estratégias focad
 
 ## Tecnologias e Bibliotecas Utilizadas
 
-![Python](https://img.shields.io/badge/Python-BB6CFF?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-BB6CFF?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-BB6CFF?style=for-the-badge&logo=matplotlib&logoColor=white)
-
 * **Linguagem:** Python
 * **Manipulação de Dados:** Pandas
 * **Visualização de Dados:** Matplotlib & Seaborn
